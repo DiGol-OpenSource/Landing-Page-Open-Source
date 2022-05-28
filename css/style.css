@@ -190,3 +190,29 @@ form .form-control {
     background-color: rgba(0,0,0,0.02);
 }
 
+
+.footer-top {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: var(--dark);
+}
+
+.footer-top a {
+    color: var(--body);
+}
+
+.footer-top a:hover {
+    color: var(--white);
+}
+
+.footer-bottom {
+    background-color: #242933;
+}
+.logo-foot {
+    width: 15%;
+}
+.App-name{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
