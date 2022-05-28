@@ -137,3 +137,12 @@ section {
     background-size: cover;
     min-height: 500px;
 }
+
+.pricing i {
+    font-size: 20px;
+    color: var(--primary);
+}
+
+.pricing ul li {
+    margin-top: 8px;
+}
